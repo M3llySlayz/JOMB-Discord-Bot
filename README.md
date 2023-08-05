@@ -9,7 +9,9 @@ I hope this bot's code helps you with your own pursuits, as I definitely needed 
 ## Making The Bot Work
 
 This guide assumes you already have Node.
+
 If you're not sure, run `node -v` in a terminal, and if it outputs `v16.9.0` or higher, you're good. 
+
 If not, download it [here.](https://nodejs.org/)
 
 In a terminal after downloading the bot and opening it in your editor of choice, make sure you have the Discord dependcies by running `npm install discord.js`.
